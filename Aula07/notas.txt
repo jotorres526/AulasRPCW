@@ -1,0 +1,33 @@
+mongo import:
+    um objeto por linha separado pro \n
+    lista de objetos, mas precisa de uma flag --jsonArray
+
+docker
+    docker run -d -p 27017:27017 --name mongo-aula07 -v data:/data/db 798d1656acba
+    docker cp casamentos.json mongo-aula07:/tmp/casamentos.json
+    docker exec mongo-aula07 mongoimport -d arq_casamentos -c registos --file /tmp/casamentos.json --jsonArray
+
+Mongosh:
+    >use CurralDasFreiras
+    >db.casamentos.find({ date:'1882/1882' })
+    >db.casamentos.find({ date:/Francisco/ })
+        mongo permite usar regex /.../
+        .count() = 52
+    
+API
+    Uma api de dados responde sempre em json, não tem interface
+    res.json(...) -> perigoso, code injection
+    res.jsonp(...) -> dá wrap que verifica se existe characters maliciosos
+
+TPC
+    Pensar em projetos?
+    Exercicio 2 da ficha 
+    Requisitos
+        - Sistema com 3 atores (perfis de acesso)
+            - Produtor de informação - só pode ver e escrever no que é dele
+                - Envia informação ao sistema (ingestão de informação)
+                - SIP, DIP, AIP
+            - Consumidor - só pode ver
+                - Faz pedidos para consumir informação (disseminação/publicação)
+            - Admin - pode fazer tudo
+                - Faz a administração

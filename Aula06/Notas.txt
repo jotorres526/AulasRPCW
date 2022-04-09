@@ -1,0 +1,44 @@
+Para ligar ao mongo
+    - device driver, baixo nivel, tudo manual
+    - ORM (read more about it)
+        - Mongoose  
+    - O express gera o esqueleto do servidor, temos de adicionar 2 peças para ligar ao mongo
+        - express galunos --view=pug
+
+galunos
+    - ...
+    - models
+    - controllers
+    - routers
+
+
+O pedido chega ao router, o router chama o controller, o controller usa o modelo para falar com a BD, a bd responde ao controller e o controller à rota
+
+O node js tem uma pipeline vertical, qdo um pedido chega passa pelos uses antes
+O pipeline horizontal existe nos pedidos, onde a ultima função é o callback
+    - app.get('', X, Y, Z, callback)
+        - X Y e Z são middleware da própria rota
+
+
+TPC 
+Web app gerada a partir do express (views em pug)
+    - modelo: ficheiro JSON ou bd Mongo
+    - GET / => pag principal
+    - Ter um botao em cada entry para apagar o ficheiro
+    - Desafio extra: conseguir ver a imagem 
+
+
+
+
+########################################
+#     Form com botao de up de file e   #
+#          descrição do file           #            
+######################################## 
+#           Lista de files             # 
+#   tabela com info de cada file    X  #
+#                                      #
+#
+#
+#
+#
+#    

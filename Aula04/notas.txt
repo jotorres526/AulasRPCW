@@ -1,0 +1,64 @@
+Formulários - Mais importante é os atributos e nao tanto os campos sendo eles:
+    - name: 
+    - action: url do script q vai receber os dados, se for vazio vai para quem gerou o formulário
+    - method: get ou post
+    - target: nao vamos usar mto, mas é a pagina onde o resultado será mostrado
+    - enctype: especificar método de codificaçao (mimetypes)
+    - input: tb tem atributos 
+        - type: pode ser text, submit, password, file....
+        - name: atribui um nome ao input
+        ...
+
+query_string: limite 2k characters e os urls vao sempre abertos
+
+
+no alunos.json temos de fazer q seja um objeto para funcionar no json-server
+
+o cliente pede automaticamente o w3.css e o favicon
+
+##### Mapa aplicaçao #####
+GET /                  Lista alunos
+GET /alunos            Lista alunos
+GET /alunos/PGxxxx
+            Axxxxx
+
+
+##### NPM Deps #####
+global:
+    - nodemon
+    - json-server
+local
+    - axios
+
+
+TPC
+Fazer um gestor de tarefas (ToDo List) com *apenas* 1 página web:
+    - Dividir em 3 areas, input, tarefas a fazer, tarefas realizadas    
+        - GET /tarefas?type=realizada   |  Tarefas realizadas (será pedido no json-server)
+        - GET /tarefas?type=porfazer    |  Tarefas por realizar  (será pedido no json-server)
+    - Uma tarefa tem data criada(date´Created), deadline(dateDued), quem é supsto fazer(who), o que é para fazer(what), e o tipo de tarefa(type)
+    - Tem de permitir ediçao de uma task ativa, e um delete para uma task realizada
+        - O botao de delete de cada task feita faz um pedido GET/POST em /tarefas/:id/apagar e no server fazemos um axios.delete
+        - O edit fica ao nosso critério
+    - Cada tarefa ativa tem de ter um check que faz um GET para mudar o estado para realizada
+        - Faz um get que será um PUT no json-server
+    - Extras:
+        - Manter lista de tipos
+        - Descriçao de tarefas
+        - Nice interface
+        - ...
+    - Mapa de rotas:
+        - GET /                           Main page
+
+        - POST /tarefas                   No form
+        - GET /tarefas/:id/apagar  
+        - GET /tarefas/:id/realizada      
+
+
+*****************
+      form
+*****************
+ fazer * feitas
+       *   
+       * 
+       *        

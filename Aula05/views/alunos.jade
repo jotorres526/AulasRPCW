@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1 Lista de alunos
+  h2 22 de março
+  table
+    tr 
+      th Identificador
+      th Nome
+      th Git
+    each a in alunos
+      tr
+        td= a.Id
+        td= a.Nome 
+        td
+          a(href=a.Git) a.Git

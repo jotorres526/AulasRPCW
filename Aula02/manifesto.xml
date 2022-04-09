@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <meta>
+        <titulo>TPC1: página web</titulo>
+        <data>2022-02-15</data>
+        <autor>
+            <id>PG47345</id>
+            <nome>João Tadeu Correia Torres</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Rpresentação e Processamento de Conhecimento na Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Primeiro parágrafo.</p>
+        <p>Segundo parágrafo.</p>
+        <p>Terceiro parágrafo a apontar para o 
+            <xref>
+                <url>xml.com</url>
+                <texto>XML</texto>
+            </xref>
+            .
+        </p>
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>index.html</url>
+            <texto>Página web</texto>
+        </resultado>
+        <resultado>
+            <url>custom.css</url>
+            <texto>Stylesheet do TPC</texto>
+        </resultado>
+    </resultados>
+</doc>

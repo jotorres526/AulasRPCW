@@ -1,0 +1,90 @@
+Algebra relacional
+    - select* -> linhas 
+    - projeção* -> colunas
+    - join -> juntar tabelas
+        - formas normais -> eliminar redundancia para otimizar transações
+
+
+Mongo - document centric 
+    - por norma corre na porta 27017
+    - estruturada em coleções
+        - nao ha conceito de schema
+    - documento é uma lista de campos
+    - só há chaves primários, nao há estrangeiras
+        - _id por omissão
+
+    - Correr o mongod --fork --syslog --dbpath MongoData
+    - Mongo import
+        - mongo -d database -c collection file.json
+            - se a database ou a collection nao existir, são criadas
+
+    - Comando uteis no mongosh
+        - db.help -> informaçao das databases 
+        - db.status -> estados
+        - show dbs -> mostra as databases
+        - use nome_db -> utiliza uma db
+        - db.createCollection("music", {autoIndexID: true})
+        - db.music.insert({...}) -> insere objeto (ou lista de objetos [{...},{...}]) na coleçao music
+            - db.collectionName.insertOne()
+            - db.collectionName.insertMany()
+        - db.dropDatabase() -> apaga base de dados
+        - db.music.drop() -> apaga collection
+        
+    - Queries:
+        - db.music.find(select*, project*).pretty()
+            - são jsons   {}      {} 
+            - SELECT
+                - db.musics.find()
+            - PROJECTION
+                - db.music.find({}, {KEY: 1})
+                    - key 0 ou 1, serve para mostrar ou esconder a coluna
+                    - por omissao mostra sempre o _id
+            - Equality (encontrar todos os documentos onde prov = alentejo)
+                - db.musics.find({prov: "Alentejo"})
+            - Inequality (tem varios operadores $ne $lte ...)
+                - db.music.find({prov: {$ne:"Alentejo"}})
+            - Arrays ($in $nin)
+                - db.music.find({prov: {$in:["Alentejo", "Minho"]}})
+            - And
+                db.music.find({$and :[
+                    {prov: "Minho"},
+                    {prov: "BMVV"}
+                ]})
+            - Or
+                db.music.find({$or :[
+                    {prov: "Minho"},
+                    {prov: "BMVV"}
+                ]})
+            - Remove
+                - db.aval.remove({_id:"pri1"})
+                    - Sem criterio elimina tudo
+                    - {justOne: 1}, remove apenas o primeiro q encontra
+            - Limit 
+            - Sort({KEY: 1})
+                - db.musicas.find(...).sort(KEY:1)
+                - -1 ou 1: ordem descendente ou ascendente
+            
+            
+
+Express
+    - express generator para criar um esqueleto de app
+        - npx express-generator
+        - npm install -g express-generator
+    - bin: config 
+    - public: ficheiros estaticos
+    - routes: roteadores, onde vamos registar as rotas da app
+    - views: 
+        - por omissão usa o jade, mas mais a frente vamos ver o PUG
+
+
+
+## TPC ##
+Dataset arq-son.json
+1: colocar arq-son a ser servido pelo json-server
+2: criar app com as rotas:
+    2.1: GET / ou GET /musicas -> lista de musicas | campos: id, titulo, provincia
+    2.2: GET /musicas/:id -> pagina da musica
+    2.3: GET /musicas/prov/:idProv -> lista das musicas desta provincia
+   *2.4: GET /musicas/inserir -> qdo o sistema recebe um post no /musicas/inserir envia ao user um formulário que faz um post na app q envia um post ao json-server
+    2.5: POST /musicas -> reencaminha para /
+

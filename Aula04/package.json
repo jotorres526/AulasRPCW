@@ -1,0 +1,15 @@
+{
+  "name": "galuno",
+  "version": "1.0.0",
+  "description": "Gestão de alunos",
+  "main": "galuno.js",
+  "scripts": {
+    "run": "node galuno",
+    "dev": "nodemon galuno.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
