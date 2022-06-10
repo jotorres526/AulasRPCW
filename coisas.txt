@@ -1,0 +1,2 @@
+npx express-generator --view=pug
+deps - axios, express, 

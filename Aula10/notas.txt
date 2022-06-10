@@ -1,0 +1,5 @@
+- O cookie guarda o session id e cada pedido leva o cookie consigo para o servidor verificar a autenticaçao
+- Random ID generators: nanoid, uuid ... vamos usar uuid
+- persistencia de dados da sessão
+  - se estivermos a usar o nodemon temos de usar nodemon --ignore sessions/
+- 

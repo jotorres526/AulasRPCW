@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="jquery-3.5.1.min.js"></script>
+  <script>
+    $(function () {
+      $("#addPara").click(function () {
+        event.preventDefault();
+        let text = $('#paraText').val();
+        if(text != '')
+          $("#list").append('<li>' + text + '</li>')
+        $('#paraText').val('')
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div id='intro'>
+    <form id='myParaForm'>
+      <fieldset>
+        <legend>New paragraph</legend>
+        <label for='paraText'>Text: </label>
+        <input id='paraText', type='text'/>
+        <input id='addPara', type='submit', value='Add'/>
+      </fieldset>
+    </form>
+  </div>
+  <div >
+      <ul id='list'></ul>
+  </div>
+</body>
+
+</html>

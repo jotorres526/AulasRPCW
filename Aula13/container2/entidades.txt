@@ -1,0 +1,647 @@
+A3ES::Agência de Avaliação e Acreditação do Ensino Superior::ent_A3ES
+AAN::Autoridade Aeronáutica Nacional::ent_AAN
+AC::Águas de Coimbra, EM::ent_AC
+ACM::Alto Comissariado para as Migrações, IP::ent_ACM
+ACSS::Administração Central do Sistema de Saúde, IP::ent_ACSS
+ACT::Autoridade para as Condições de Trabalho::ent_ACT
+ADC::Agência para o Desenvolvimento e Coesão, I.P.::ent_ADC
+ADSE::Instituto de Proteção e Assistência na Doença, IP::ent_ADSE
+AGIF::Agência para a Gestão Integrada de Fogos Rurais, IP::ent_AGIF
+AICEP::Agência para o Investimento e Comércio Externo de Portugal, EPE::ent_AICEP
+ALRAA::Assembleia Legislativa da Região Autónoma dos Açores::ent_ALRAA
+ALRAM::Assembleia Legislativa da Região Autónoma da Madeira::ent_ALRAM
+AMA::Agência para a Modernização Administrativa, I.P.::ent_AMA
+AMN::Autoridade Marítima Nacional::ent_AMN
+AMT::Autoridade da Mobilidade e dos Transportes::ent_AMT
+ANA::ANA - Aeroportos de Portugal, SA::ent_ANA
+ANAC::Autoridade Nacional da Aviação Civil::ent_ANAC
+ANACOM::Autoridade Nacional de Comunicações::ent_ANACOM
+ANCP::Agência Nacional de Compras Públicas, EPE::ent_ANCP
+ANEPC::Autoridade Nacional de Emergência e Proteção Civil::ent_ANEPC
+ANMP::Associação Nacional de Municípios Portugueses::ent_ANMP
+ANPC::Autoridade Nacional de Proteção Civil::ent_ANPC
+ANQEP::Agência Nacional para a Qualificação e o Ensino Profissional, IP::ent_ANQEP
+ANS::Autoridade Nacional de Segurança::ent_ANS
+ANSR::Autoridade Nacional de Segurança Rodoviária::ent_ANSR
+ANTRAL::Associação Nacional dos Transportes Rodoviários em Automóveis Ligeiros::ent_ANTRAL
+APA::Agência Portuguesa do Ambiente, IP::ent_APA
+APAV::Associação Portuguesa de Apoio à Vítima::ent_APAV
+APEL::Associação Portuguesa de Editores e Livreiros::ent_APEL
+AR::Assembleia da República::ent_AR
+ARS-Alg::Administração Regional de Saúde do Algarve, IP::ent_ARS-Alg
+ARS-Aln::Administração Regional de Saúde do Alentejo, IP::ent_ARS-Aln
+ARS-C::Administração Regional de Saúde do Centro, IP::ent_ARS-C
+ARS-LVT::Administração Regional de Saúde de Lisboa e Vale do Tejo, IP::ent_ARS-LVT
+ARS-N::Administração Regional de Saúde do Norte, IP::ent_ARS-N
+ASAE::Autoridade de Segurança Alimentar e Económica::ent_ASAE
+ASF::Autoridade de Supervisão de Seguros e Fundos de Pensões::ent_ASF
+AT::Autoridade Tributária e Aduaneira::ent_AT
+AdC::Autoridade da Concorrência::ent_AdC
+Alentejo2020::Autoridade de Gestão do Programa Operacional Regional do Alentejo::ent_Alentejo2020
+Algarve2020::Autoridade de Gestão do Programa Operacional Regional do Algarve::ent_Algarve2020
+BNA::Balcão Nacional de Arrendamento::ent_BNA
+BNI::Balcão Nacional de Injunções::ent_BNI
+BNP::Biblioteca Nacional de Portugal::ent_BNP
+BdP::Banco de Portugal::ent_BdP
+CACME::Comissão de Aplicação de Coimas em Matéria Económica::ent_CACME
+CACMP::Comissão de Aplicação de Coimas em Matéria de Publicidade::ent_CACMP
+CADA::Comissão de Acesso aos Documentos Administrativos::ent_CADA
+CAFEB::Caixa de Abono de Família dos Empregados Bancários::ent_CAFEB
+CASES::Cooperativa António Sérgio para a Economia Social::ent_CASES
+CCDR-Alg::Comissão de Coordenação do Desenvolvimento Regional do Algarve::ent_CCDR-Alg
+CCDR-Aln::Comissão de Coordenação do Desenvolvimento Regional do Alentejo::ent_CCDR-Aln
+CCDR-C::Comissão de Coordenação do Desenvolvimento Regional do Centro::ent_CCDR-C
+CCDR-LVT::Comissão de Coordenação do Desenvolvimento Regional de Lisboa e Vale do Tejo::ent_CCDR-LVT
+CCDR-N::Comissão de Coordenação do Desenvolvimento Regional do Norte::ent_CCDR-N
+CCM::Comissão Cultural de Marinha::ent_CCM
+CCPFC::Conselho Científico-Pedagógico da Formação Contínua::ent_CCPFC
+CE::Comunidade Europeia::ent_CE
+CEE::Comunidade Económica Europeia::ent_CEE
+CEGER::Centro de Gestão da Rede Informática do Governo::ent_CEGER
+CEIC::Comissão de Ética para a Investigação Clínica::ent_CEIC
+CEJ::Centro de Estudos Judiciários::ent_CEJ
+CES::Conselho Económico e Social::ent_CES
+CGA::Caixa Geral de Aposentações, IP::ent_CGA
+CIG::Comissão para a Cidadania e a Igualdade de Género::ent_CIG
+CISAC::International Confederation of Societies of Authors and Composers::ent_CISAC
+CITE::Comissão para a Igualdade no Trabalho e no Emprego::ent_CITE
+CM::Conselho de Ministros::ent_CM
+CMABF::Câmara Municipal de Albufeira::ent_CMABF
+CMABT::Câmara Municipal de Abrantes::ent_CMABT
+CMACB::Câmara Municipal de Alcobaça::ent_CMACB
+CMACH::Câmara Municipal de Alcochete::ent_CMACH
+CMACN::Câmara Municipal de Alcanena::ent_CMACN
+CMACT::Câmara Municipal de Alcoutim::ent_CMACT
+CMADL::Câmara Municipal de Alandroal::ent_CMADL
+CMADV::Câmara Municipal de Almodôvar::ent_CMADV
+CMAFE::Câmara Municipal de Alfândega da Fé::ent_CMAFE
+CMAGB::Câmara Municipal de Aguiar da Beira::ent_CMAGB
+CMAGD::Câmara Municipal de Águeda::ent_CMAGD
+CMAGH::Câmara Municipal de Angra do Heroísmo::ent_CMAGH
+CMAGN::Câmara Municipal de Arganil::ent_CMAGN
+CMAJT::Câmara Municipal de Aljustrel::ent_CMAJT
+CMAJZ::Câmara Municipal de Aljezur::ent_CMAJZ
+CMALB::Câmara Municipal de Albergaria-A-Velha::ent_CMALB
+CMALD::Câmara Municipal de Almeida::ent_CMALD
+CMALJ::Câmara Municipal de Alijó::ent_CMALJ
+CMALM::Câmara Municipal de Almada::ent_CMALM
+CMALQ::Câmara Municipal de Alenquer::ent_CMALQ
+CMALR::Câmara Municipal de Almeirim::ent_CMALR
+CMALT::Câmara Municipal de Alter do Chão::ent_CMALT
+CMAMD::Câmara Municipal da Amadora::ent_CMAMD
+CMAMM::Câmara Municipal de Armamar::ent_CMAMM
+CMAMR::Câmara Municipal de Amares::ent_CMAMR
+CMAMT::Câmara Municipal de Amarante::ent_CMAMT
+CMAND::Câmara Municipal da Anadia::ent_CMAND
+CMANS::Câmara Municipal de Ansião::ent_CMANS
+CMAPC::Câmara Municipal de Alpiarça::ent_CMAPC
+CMARC::Câmara Municipal de Arouca::ent_CMARC
+CMARL::Câmara Municipal de Arraiolos::ent_CMARL
+CMARR::Câmara Municipal de Arronches::ent_CMARR
+CMARV::Câmara Municipal de Arruda dos Vinhos::ent_CMARV
+CMASL::Câmara Municipal de Alcácer do Sal::ent_CMASL
+CMAVR::Câmara Municipal de Aveiro::ent_CMAVR
+CMAVS::Câmara Municipal de Avis::ent_CMAVS
+CMAVT::Câmara Municipal de Alvito::ent_CMAVT
+CMAVV::Câmara Municipal de Arcos de Valdevez::ent_CMAVV
+CMAVZ::Câmara Municipal de Alvaiázere::ent_CMAVZ
+CMAZB::Câmara Municipal da Azambuja::ent_CMAZB
+CMBAO::Câmara Municipal de Baião::ent_CMBAO
+CMBBR::Câmara Municipal do Bombarral::ent_CMBBR
+CMBCL::Câmara Municipal de Barcelos::ent_CMBCL
+CMBGC::Câmara Municipal de Bragança::ent_CMBGC
+CMBJA::Câmara Municipal de Beja::ent_CMBJA
+CMBMT::Câmara Municipal de Belmonte::ent_CMBMT
+CMBNV::Câmara Municipal de Benavente::ent_CMBNV
+CMBRB::Câmara Municipal de Borba::ent_CMBRB
+CMBRC::Câmara Municipal de Barrancos::ent_CMBRC
+CMBRG::Câmara Municipal de Braga::ent_CMBRG
+CMBRR::Câmara Municipal do Barreiro::ent_CMBRR
+CMBTC::Câmara Municipal de Boticas::ent_CMBTC
+CMBTL::Câmara Municipal da Batalha::ent_CMBTL
+CMCBA::Câmara Municipal de Cuba::ent_CMCBA
+CMCBC::Câmara Municipal de Cabeceiras de Basto::ent_CMCBC
+CMCBR::Câmara Municipal de Coimbra::ent_CMCBR
+CMCBT::Câmara Municipal de Celorico de Basto::ent_CMCBT
+CMCCH::Câmara Municipal de Coruche::ent_CMCCH
+CMCDN::Câmara Municipal de Condeixa-a-Nova::ent_CMCDN
+CMCDR::Câmara Municipal de Castro Daire::ent_CMCDR
+CMCDV::Câmara Municipal de Cadaval::ent_CMCDV
+CMCHM::Câmara Municipal da Chamusca::ent_CMCHM
+CMCHT::Câmara Municipal da Calheta (Açores)::ent_CMCHT
+CMCHV::Câmara Municipal de Chaves::ent_CMCHV
+CMCLB::Câmara Municipal de Celorico da Beira::ent_CMCLB
+CMCLD::Câmara Municipal de Caldas da Rainha::ent_CMCLD
+CMCLT::Câmara Municipal da Calheta (Madeira)::ent_CMCLT
+CMCML::Câmara Municipal de Câmara de Lobos::ent_CMCML
+CMCMN::Câmara Municipal de Caminha::ent_CMCMN
+CMCMR::Câmara Municipal de Campo Maior::ent_CMCMR
+CMCNF::Câmara Municipal de Cinfães::ent_CMCNF
+CMCNS::Câmara Municipal de Constância::ent_CMCNS
+CMCNT::Câmara Municipal de Cantanhede::ent_CMCNT
+CMCPR::Câmara Municipal de Castanheira de Pera::ent_CMCPR
+CMCPV::Câmara Municipal de Castelo de Paiva::ent_CMCPV
+CMCRS::Câmara Municipal de Carregal do Sal::ent_CMCRS
+CMCRT::Câmara Municipal do Crato::ent_CMCRT
+CMCRV::Câmara Municipal do Corvo::ent_CMCRV
+CMCRZ::Câmara Municipal de Carrazeda de Ansiães::ent_CMCRZ
+CMCSC::Câmara Municipal de Cascais::ent_CMCSC
+CMCTB::Câmara Municipal de Castelo Branco::ent_CMCTB
+CMCTM::Câmara Municipal de Castro Marim::ent_CMCTM
+CMCTX::Câmara Municipal do Cartaxo::ent_CMCTX
+CMCVD::Câmara Municipal de Castelo de Vide::ent_CMCVD
+CMCVL::Câmara Municipal da Covilhã::ent_CMCVL
+CMCVR::Câmara Municipal de Castro Verde::ent_CMCVR
+CMELV::Câmara Municipal de Elvas::ent_CMELV
+CMENT::Câmara Municipal do Entroncamento::ent_CMENT
+CMEPS::Câmara Municipal de Esposende::ent_CMEPS
+CMESP::Câmara Municipal de Espinho::ent_CMESP
+CMETR::Câmara Municipal de Estarreja::ent_CMETR
+CMETZ::Câmara Municipal de Estremoz::ent_CMETZ
+CMEVR::Câmara Municipal de Évora::ent_CMEVR
+CMFAF::Câmara Municipal de Fafe::ent_CMFAF
+CMFAG::Câmara Municipal de Fornos de Algodres::ent_CMFAG
+CMFAL::Câmara Municipal de Ferreira do Alentejo::ent_CMFAL
+CMFAR::Câmara Municipal de Faro::ent_CMFAR
+CMFCR::Câmara Municipal de Figueira de Castelo Rodrigo::ent_CMFCR
+CMFEC::Câmara Municipal de Freixo de Espada à Cinta::ent_CMFEC
+CMFIG::Câmara Municipal da Figueira da Foz::ent_CMFIG
+CMFLG::Câmara Municipal de Felgueiras::ent_CMFLG
+CMFNC::Câmara Municipal do Funchal::ent_CMFNC
+CMFND::Câmara Municipal do Fundão::ent_CMFND
+CMFTR::Câmara Municipal de Fronteira::ent_CMFTR
+CMFVN::Câmara Municipal de Figueiró dos Vinhos::ent_CMFVN
+CMFZZ::Câmara Municipal de Ferreira do Zêzere::ent_CMFZZ
+CMGAV::Câmara Municipal de Gavião::ent_CMGAV
+CMGDL::Câmara Municipal de Grândola::ent_CMGDL
+CMGDM::Câmara Municipal de Gondomar::ent_CMGDM
+CMGLG::Câmara Municipal da Golegã::ent_CMGLG
+CMGMR::Câmara Municipal de Guimarães::ent_CMGMR
+CMGOI::Câmara Municipal de Góis::ent_CMGOI
+CMGRD::Câmara Municipal da Guarda::ent_CMGRD
+CMGVA::Câmara Municipal de Gouveia::ent_CMGVA
+CMHRT::Câmara Municipal da Horta::ent_CMHRT
+CMIDN::Câmara Municipal de Idanha-a-Nova::ent_CMIDN
+CMILH::Câmara Municipal de Ílhavo::ent_CMILH
+CMLAG::Câmara Municipal de Lagoa (Açores)::ent_CMLAG
+CMLGA::Câmara Municipal de Lagoa (Algarve)::ent_CMLGA
+CMLGF::Câmara Municipal de Lajes das Flores::ent_CMLGF
+CMLGP::Câmara Municipal de Lajes do Pico::ent_CMLGP
+CMLGS::Câmara Municipal de Lagos::ent_CMLGS
+CMLLE::Câmara Municipal de Loulé::ent_CMLLE
+CMLMG::Câmara Municipal de Lamego::ent_CMLMG
+CMLNH::Câmara Municipal da Lourinhã::ent_CMLNH
+CMLOU::Câmara Municipal de Lousada::ent_CMLOU
+CMLRA::Câmara Municipal de Leiria::ent_CMLRA
+CMLRS::Câmara Municipal de Loures::ent_CMLRS
+CMLSA::Câmara Municipal da Lousã::ent_CMLSA
+CMLSB::Câmara Municipal de Lisboa::ent_CMLSB
+CMMAC::Câmara Municipal de Mação::ent_CMMAC
+CMMAD::Câmara Municipal da Madalena::ent_CMMAD
+CMMAI::Câmara Municipal da Maia::ent_CMMAI
+CMMBR::Câmara Municipal de Moimenta da Beira::ent_CMMBR
+CMMCD::Câmara Municipal de Macedo de Cavaleiros::ent_CMMCD
+CMMCH::Câmara Municipal de Machico::ent_CMMCH
+CMMCN::Câmara Municipal de Marco de Canaveses::ent_CMMCN
+CMMCQ::Câmara Municipal de Monchique::ent_CMMCQ
+CMMCV::Câmara Municipal de Miranda do Corvo::ent_CMMCV
+CMMDB::Câmara Municipal de Mondim de Basto::ent_CMMDB
+CMMDL::Câmara Municipal de Mirandela::ent_CMMDL
+CMMDR::Câmara Municipal de Miranda do Douro::ent_CMMDR
+CMMED::Câmara Municipal de Mêda::ent_CMMED
+CMMFR::Câmara Municipal de Mafra::ent_CMMFR
+CMMFT::Câmara Municipal de Monforte::ent_CMMFT
+CMMGD::Câmara Municipal de Mogadouro::ent_CMMGD
+CMMGL::Câmara Municipal de Mangualde::ent_CMMGL
+CMMGR::Câmara Municipal da Marinha Grande::ent_CMMGR
+CMMIR::Câmara Municipal de Mira::ent_CMMIR
+CMMLD::Câmara Municipal da Mealhada::ent_CMMLD
+CMMLG::Câmara Municipal de Melgaço::ent_CMMLG
+CMMMN::Câmara Municipal de Montemor-o-Novo::ent_CMMMN
+CMMMV::Câmara Municipal de Montemor-o-Velho::ent_CMMMV
+CMMNC::Câmara Municipal de Monção::ent_CMMNC
+CMMOR::Câmara Municipal de Mora::ent_CMMOR
+CMMOU::Câmara Municipal de Mourão::ent_CMMOU
+CMMRA::Câmara Municipal de Moura::ent_CMMRA
+CMMRS::Câmara Municipal da Murtosa::ent_CMMRS
+CMMRT::Câmara Municipal de Mortágua::ent_CMMRT
+CMMRV::Câmara Municipal de Marvão::ent_CMMRV
+CMMSF::Câmara Municipal de Mesão Frio::ent_CMMSF
+CMMTA::Câmara Municipal da Moita::ent_CMMTA
+CMMTG::Câmara Municipal de Manteigas::ent_CMMTG
+CMMTJ::Câmara Municipal do Montijo::ent_CMMTJ
+CMMTL::Câmara Municipal de Mértola::ent_CMMTL
+CMMTR::Câmara Municipal de Montalegre::ent_CMMTR
+CMMTS::Câmara Municipal de Matosinhos::ent_CMMTS
+CMMUR::Câmara Municipal de Murça::ent_CMMUR
+CMNIS::Câmara Municipal de Nisa::ent_CMNIS
+CMNLS::Câmara Municipal de Nelas::ent_CMNLS
+CMNRD::Câmara Municipal do Nordeste::ent_CMNRD
+CMNZR::Câmara Municipal da Nazaré::ent_CMNZR
+CMOAZ::Câmara Municipal de Oliveira de Azeméis::ent_CMOAZ
+CMOBD::Câmara Municipal de Óbidos::ent_CMOBD
+CMOBR::Câmara Municipal de Oliveira do Bairro::ent_CMOBR
+CMODM::Câmara Municipal de Odemira::ent_CMODM
+CMODV::Câmara Municipal de Odivelas::ent_CMODV
+CMOER::Câmara Municipal de Oeiras::ent_CMOER
+CMOFR::Câmara Municipal de Oliveira de Frades::ent_CMOFR
+CMOHP::Câmara Municipal de Oliveira do Hospital::ent_CMOHP
+CMOLH::Câmara Municipal de Olhão::ent_CMOLH
+CMOLR::Câmara Municipal de Oleiros::ent_CMOLR
+CMORM::Câmara Municipal de Ourém::ent_CMORM
+CMORQ::Câmara Municipal de Ourique::ent_CMORQ
+CMOVR::Câmara Municipal de Ovar::ent_CMOVR
+CMPBL::Câmara Municipal de Pombal::ent_CMPBL
+CMPCR::Câmara Municipal de Paredes de Coura::ent_CMPCR
+CMPCT::Câmara Municipal de Penalva do Castelo::ent_CMPCT
+CMPCV::Câmara Municipal de Penacova::ent_CMPCV
+CMPDL::Câmara Municipal de Ponta Delgada::ent_CMPDL
+CMPFR::Câmara Municipal de Paços de Ferreira::ent_CMPFR
+CMPGR::Câmara Municipal de Pedrógão Grande::ent_CMPGR
+CMPLM::Câmara Municipal de Palmela::ent_CMPLM
+CMPMS::Câmara Municipal de Porto de Mós::ent_CMPMS
+CMPMZ::Câmara Municipal de Porto Moniz::ent_CMPMZ
+CMPNC::Câmara Municipal de Penamacor::ent_CMPNC
+CMPND::Câmara Municipal de Penedono::ent_CMPND
+CMPNF::Câmara Municipal de Penafiel::ent_CMPNF
+CMPNH::Câmara Municipal de Pinhel::ent_CMPNH
+CMPNI::Câmara Municipal de Peniche::ent_CMPNI
+CMPNL::Câmara Municipal de Penela::ent_CMPNL
+CMPNV::Câmara Municipal de Proença-a-Nova::ent_CMPNV
+CMPPS::Câmara Municipal da Pampilhosa da Serra::ent_CMPPS
+CMPRD::Câmara Municipal de Paredes::ent_CMPRD
+CMPRG::Câmara Municipal de Peso da Régua::ent_CMPRG
+CMPRL::Câmara Municipal de Portel::ent_CMPRL
+CMPRS::Câmara Municipal de Vila Nova de Poiares::ent_CMPRS
+CMPRT::Câmara Municipal do Porto::ent_CMPRT
+CMPSR::Câmara Municipal de Ponte de Sôr::ent_CMPSR
+CMPST::Câmara Municipal de Porto Santo::ent_CMPST
+CMPTB::Câmara Municipal de Ponte da Barca::ent_CMPTB
+CMPTG::Câmara Municipal de Portalegre::ent_CMPTG
+CMPTL::Câmara Municipal de Ponte de Lima::ent_CMPTL
+CMPTM::Câmara Municipal de Portimão::ent_CMPTM
+CMPTS::Câmara Municipal de Ponta do Sol::ent_CMPTS
+CMPV::Câmara Municipal da Praia da Vitória::ent_CMPV
+CMPVC::Câmara Municipal de Povoação::ent_CMPVC
+CMPVL::Câmara Municipal de Póvoa de Lanhoso::ent_CMPVL
+CMPVZ::Câmara Municipal de Póvoa de Varzim::ent_CMPVZ
+CMRBR::Câmara Municipal da Ribeira Brava::ent_CMRBR
+CMRDD::Câmara Municipal do Redondo::ent_CMRDD
+CMRGR::Câmara Municipal de Ribeira Grande::ent_CMRGR
+CMRMR::Câmara Municipal de Rio Maior::ent_CMRMR
+CMRMZ::Câmara Municipal de Reguengos de Monsaraz::ent_CMRMZ
+CMRPN::Câmara Municipal de Ribeira de Pena::ent_CMRPN
+CMRSD::Câmara Municipal de Resende::ent_CMRSD
+CMSAT::Câmara Municipal de Sátão::ent_CMSAT
+CMSBA::Câmara Municipal de São Brás de Alportel::ent_CMSBA
+CMSBG::Câmara Municipal do Sabugal::ent_CMSBG
+CMSBS::Câmara Municipal de Sabrosa::ent_CMSBS
+CMSCD::Câmara Municipal de Santa Comba Dão::ent_CMSCD
+CMSCF::Câmara Municipal de Santa Cruz das Flores::ent_CMSCF
+CMSCG::Câmara Municipal de Santa Cruz da Graciosa::ent_CMSCG
+CMSCR::Câmara Municipal de Santa Cruz::ent_CMSCR
+CMSEI::Câmara Municipal de Seia::ent_CMSEI
+CMSJM::Câmara Municipal de São João da Madeira::ent_CMSJM
+CMSJP::Câmara Municipal de São João da Pesqueira::ent_CMSJP
+CMSLV::Câmara Municipal de Silves::ent_CMSLV
+CMSMA::Câmara Municipal de Sobral de Monte Agraço::ent_CMSMA
+CMSMG::Câmara Municipal de Salvaterra de Magos::ent_CMSMG
+CMSMP::Câmara Municipal de Santa Marta de Penaguião::ent_CMSMP
+CMSNS::Câmara Municipal de Sines::ent_CMSNS
+CMSNT::Câmara Municipal de Sintra::ent_CMSNT
+CMSPS::Câmara Municipal de São Pedro do Sul::ent_CMSPS
+CMSRD::Câmara Municipal de Sardoal::ent_CMSRD
+CMSRE::Câmara Municipal de Soure::ent_CMSRE
+CMSRN::Câmara Municipal de Sernancelhe::ent_CMSRN
+CMSRP::Câmara Municipal de Serpa::ent_CMSRP
+CMSRQ::Câmara Municipal de São Roque do Pico::ent_CMSRQ
+CMSRT::Câmara Municipal da Sertã::ent_CMSRT
+CMSSB::Câmara Municipal de Sesimbra::ent_CMSSB
+CMSSL::Câmara Municipal de Sousel::ent_CMSSL
+CMSTB::Câmara Municipal de Setúbal::ent_CMSTB
+CMSTC::Câmara Municipal de Santiago do Cacém::ent_CMSTC
+CMSTN::Câmara Municipal de Santana::ent_CMSTN
+CMSTR::Câmara Municipal de Santarém::ent_CMSTR
+CMSTS::Câmara Municipal de Santo Tirso::ent_CMSTS
+CMSVC::Câmara Municipal de São Vicente::ent_CMSVC
+CMSVV::Câmara Municipal de Sever do Vouga::ent_CMSVV
+CMSXL::Câmara Municipal do Seixal::ent_CMSXL
+CMTBC::Câmara Municipal de Tabuaço::ent_CMTBC
+CMTBR::Câmara Municipal de Terras de Bouro::ent_CMTBR
+CMTBU::Câmara Municipal de Tábua::ent_CMTBU
+CMTCS::Câmara Municipal de Trancoso::ent_CMTCS
+CMTMC::Câmara Municipal de Torre de Moncorvo::ent_CMTMC
+CMTMR::Câmara Municipal de Tomar::ent_CMTMR
+CMTND::Câmara Municipal de Tondela::ent_CMTND
+CMTNV::Câmara Municipal de Torres Novas::ent_CMTNV
+CMTRC::Câmara Municipal de Tarouca::ent_CMTRC
+CMTRF::Câmara Municipal de Trofa::ent_CMTRF
+CMTVD::Câmara Municipal de Torres Vedras::ent_CMTVD
+CMTVR::Câmara Municipal de Tavira::ent_CMTVR
+CMVBP::Câmara Municipal de Vila do Bispo::ent_CMVBP
+CMVCD::Câmara Municipal de Vila do Conde::ent_CMVCD
+CMVCT::Câmara Municipal de Viana do Castelo::ent_CMVCT
+CMVDG::Câmara Municipal de Vidigueira::ent_CMVDG
+CMVFC::Câmara Municipal de Vila Franca do Campo::ent_CMVFC
+CMVFL::Câmara Municipal de Vila Flor::ent_CMVFL
+CMVFR::Câmara Municipal de Santa Maria da Feira::ent_CMVFR
+CMVFX::Câmara Municipal de Vila Franca de Xira::ent_CMVFX
+CMVGS::Câmara Municipal de Vagos::ent_CMVGS
+CMVIS::Câmara Municipal de Viseu::ent_CMVIS
+CMVIZ::Câmara Municipal de Vizela::ent_CMVIZ
+CMVLC::Câmara Municipal de Vale de Cambra::ent_CMVLC
+CMVLF::Câmara Municipal de Vila Nova de Foz Côa::ent_CMVLF
+CMVLG::Câmara Municipal de Valongo::ent_CMVLG
+CMVLN::Câmara Municipal de Valença::ent_CMVLN
+CMVLP::Câmara Municipal de Valpaços::ent_CMVLP
+CMVLR::Câmara Municipal de Vila de Rei::ent_CMVLR
+CMVLS::Câmara Municipal de Velas::ent_CMVLS
+CMVM::Comissão do Mercado de Valores Mobiliários::ent_CMVM
+CMVMS::Câmara Municipal de Vimioso::ent_CMVMS
+CMVNB::Câmara Municipal de Vila Nova da Barquinha::ent_CMVNB
+CMVNC::Câmara Municipal de Vila Nova de Cerveira::ent_CMVNC
+CMVND::Câmara Municipal de Vendas Novas::ent_CMVND
+CMVNF::Câmara Municipal de Vila Nova de Famalicão::ent_CMVNF
+CMVNG::Câmara Municipal de Vila Nova de Gaia::ent_CMVNG
+CMVNH::Câmara Municipal de Vinhais::ent_CMVNH
+CMVNP::Câmara Municipal de Vila Nova de Paiva::ent_CMVNP
+CMVNT::Câmara Municipal de Viana do Alentejo::ent_CMVNT
+CMVPA::Câmara Municipal de Vila Pouca de Aguiar::ent_CMVPA
+CMVPT::Câmara Municipal de Vila do Porto::ent_CMVPT
+CMVRL::Câmara Municipal de Vila Real::ent_CMVRL
+CMVRM::Câmara Municipal de Vieira do Minho::ent_CMVRM
+CMVRS::Câmara Municipal de Vila Real de Santo António::ent_CMVRS
+CMVVC::Câmara Municipal de Vila Viçosa::ent_CMVVC
+CMVVD::Câmara Municipal de Vila Verde::ent_CMVVD
+CMVVR::Câmara Municipal de Vila Velha de Ródão::ent_CMVVR
+CMVZL::Câmara Municipal de Vouzela::ent_CMVZL
+CNCS::Centro Nacional de Cibersegurança::ent_CNCS
+CNE::Comissão Nacional de Eleições::ent_CNE
+CNECV::Conselho Nacional de Ética para as Ciências da Vida::ent_CNECV
+CNEdu::Conselho Nacional de Educação::ent_CNEdu
+CNOC::Comissão Nacional de Objeção de Consciência::ent_CNOC
+CNPC::Comissão Nacional de Proteção Civil::ent_CNPC
+CNPD::Comissão Nacional de Proteção de Dados::ent_CNPD
+CNPDPCJ::Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens::ent_CNPDPCJ
+CNPMA::Conselho Nacional de Procriação Medicamente Assistida::ent_CNPMA
+CNPRP::Centro Nacional de Proteção contra os Riscos Profissionais::ent_CNPRP
+CNPSSS::Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social::ent_CNPSSS
+CNU::Comissão Nacional da UNESCO::ent_CNU
+CP::Comboios de Portugal, EPE::ent_CP
+CP-MC::Cinemateca Portuguesa-Museu do Cinema, IP::ent_CP-MC
+CPES::Comissão de Programas Especiais de Segurança::ent_CPES
+CPL::Casa Pia de Lisboa, IP::ent_CPL
+CPVC::Comissão de Proteção às Vítimas de Crimes::ent_CPVC
+CRESAP::Comissão de Recrutamento e Seleção para a Administração Pública::ent_CRESAP
+CRL::Centro de Relações Laborais::ent_CRL
+CSE::Conselho Superior de Estatística::ent_CSE
+CSM::Conselho Superior de Magistratura::ent_CSM
+CSTAF::Conselho Superior dos Tribunais Administrativos e Fiscais::ent_CSTAF
+CV::Ciência Viva – Agência Nacional para a Cultura Científica e Tecnológica::ent_CV
+Camões::Camões - Instituto da Cooperação e da Língua, IP::ent_Camões
+Centro2020::Autoridade de Gestão do Programa Operacional Regional do Centro::ent_Centro2020
+DGAC::Direção-Geral dos Assuntos Comunitários::ent_DGAC
+DGACCP::Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas::ent_DGACCP
+DGADR::Direção-Geral de Agricultura e Desenvolvimento Rural::ent_DGADR
+DGAE::Direção-Geral das Atividades Económicas::ent_DGAE
+DGAEP::Direção-Geral da Administração e do Emprego Público::ent_DGAEP
+DGAEs::Direção-Geral da Administração Escolar::ent_DGAEs
+DGAEu::Direção-Geral dos Assuntos Europeus::ent_DGAEu
+DGAIEC::Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo::ent_DGAIEC
+DGAIESC::Direção-Geral das Alfândegas e do Impostos Especiais sobre o Consumo::ent_DGAIESC
+DGAJ::Direção-Geral da Administração da Justiça::ent_DGAJ
+DGAL::Direção-Geral das Autarquias Locais::ent_DGAL
+DGAM::Direção-Geral da Autoridade Marítima::ent_DGAM
+DGARTES::Direção-Geral das Artes::ent_DGARTES
+DGAV::Direção-Geral de Alimentação e Veterinária::ent_DGAV
+DGC::Direção-Geral do Consumidor::ent_DGC
+DGCI::Direção-Geral das Contribuições e Impostos::ent_DGCI
+DGCSP::Direção-Geral dos Cuidados de Saúde Primários::ent_DGCSP
+DGE::Direção-Geral da Educação::ent_DGE
+DGEEC::Direção-Geral de Estatísticas da Educação e Ciência::ent_DGEEC
+DGEG::Direção-Geral de Energia e Geologia::ent_DGEG
+DGERT::Direção-Geral do Emprego e das Relações de Trabalho::ent_DGERT
+DGES::Direção-Geral do Ensino Superior::ent_DGES
+DGEstE::Direção-Geral dos Estabelecimentos Escolares::ent_DGEstE
+DGITA::Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros::ent_DGITA
+DGLAB::Direção-Geral do Livro, dos Arquivos e das Bibliotecas::ent_DGLAB
+DGLB::Direção-Geral do Livro e das Bibliotecas::ent_DGLB
+DGMARE::Directorate General for Maritime Affairs and Fisheries::ent_DGMARE
+DGO::Direção-Geral do Orçamento::ent_DGO
+DGOTDU::Direcção Geral de Ordenamento do Território e Desenvolvimento Urbano::ent_DGOTDU
+DGPC::Direção-Geral do Património Cultural::ent_DGPC
+DGPDN::Direção-Geral de Política de Defesa Nacional::ent_DGPDN
+DGPE::Direção-Geral de Política Externa::ent_DGPE
+DGPJ::Direção-Geral de Política de Justiça::ent_DGPJ
+DGPM::Direção-Geral de Política do Mar::ent_DGPM
+DGRDN::Direção-Geral de Recursos da Defesa Nacional::ent_DGRDN
+DGRM::Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos::ent_DGRM
+DGRS::Direção-Geral de Reinserção Social::ent_DGRS
+DGRSP::Direção-Geral de Reinserção e Serviços Prisionais::ent_DGRSP
+DGS::Direção-Geral de Saúde::ent_DGS
+DGSP::Direção-Geral dos Serviços Prisionais::ent_DGSP
+DGSS::Direção-Geral da Segurança Social::ent_DGSS
+DGT::Direção-Geral do Território::ent_DGT
+DGTF::Direção-Geral do Tesouro e Finanças::ent_DGTF
+DGTur::Direção-Geral do Turismo::ent_DGTur
+DGV::Direção-Geral de Viação::ent_DGV
+DNS_PT::Associação DNS.PT::ent_DNS_PT
+DPP::Departamento de Prospetiva e Planeamento::ent_DPP
+DRAC-Alg::Direção Regional de Cultura do Algarve::ent_DRAC-Alg
+DRAC-Aln::Direção Regional de Cultura do Alentejo::ent_DRAC-Aln
+DRAC-C::Direção Regional de Cultura do Centro::ent_DRAC-C
+DRAC-N::Direção Regional de Cultura do Norte::ent_DRAC-N
+DRAP-Alg::Direção Regional de Agricultura e Pescas do Algarve::ent_DRAP-Alg
+DRAP-Aln::Direção Regional de Agricultura e Pescas do Alentejo::ent_DRAP-Aln
+DRAP-C::Direção Regional de Agricultura e Pescas do Centro::ent_DRAP-C
+DRAP-LVT::Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo::ent_DRAP-LVT
+DRAP-N::Direção Regional de Agricultura e Pescas do Norte::ent_DRAP-N
+DREALE::Direção Regional de Educação do Alentejo::ent_DREALE
+DREALG::Direção Regional de Educação do Algarve::ent_DREALG
+DREC::Direção Regional de Educação do Centro::ent_DREC
+DRELVT::Direção Regional de Educação de Lisboa e Vale do Tejo::ent_DRELVT
+DREN::Direção Regional de Educação do Norte::ent_DREN
+ECFP::Entidade das Contas e Financiamentos Políticos::ent_ECFP
+ECHA::Agência Europeia dos Produtos Químicos::ent_ECHA
+EMGFA::Estado-Maior General das Forças Armadas::ent_EMGFA
+EN::Marinha – Escola Naval::ent_EN
+ENMC::Entidade Nacional para o Mercado de Combustíveis, EPE::ent_ENMC
+EPAE::Escola Portuguesa de Arte Equestre::ent_EPAE
+ERC::Entidade Reguladora para a Comunicação Social::ent_ERC
+ERS::Entidade Reguladora da Saúde::ent_ERS
+ERSAR::Entidade Reguladora dos Serviços de Águas e Resíduos::ent_ERSAR
+ESPAP::Entidade de Serviços Partilhados da Administração Pública, IP::ent_ESPAP
+EURATOM::Comunidade Europeia da Energia Atómica::ent_EURATOM
+Exército::Exército Português::ent_Exército
+FAP::Força Aérea Portuguesa::ent_FAP
+FC-UL::Faculdade de Ciências da Universidade de Lisboa::ent_FC-UL
+FCM-UNL::Faculdade de Ciências Médicas da Universidade Nova de Lisboa::ent_FCM-UNL
+FCT::Fundação para a Ciência e a Tecnologia::ent_FCT
+FF-UL::Faculdade de Farmácia da Universidade de Lisboa::ent_FF-UL
+FL-UL::Faculdade de Letras da Universidade de Lisboa::ent_FL-UL
+FPT::Federação Portuguesa de Táxis::ent_FPT
+GAMA::Gabinete  de Investigação de Acidentes Marítimos e da Autoridade para a  Meteorologia Aeronáutica::ent_GAMA
+GEE::Gabinete de Estratégia e Estudos::ent_GEE
+GEP::Gabinete de Estratégia e Planeamento::ent_GEP
+GEPAC::Gabinete de Estratégia, Planeamento e Avaliação Culturais::ent_GEPAC
+GNR::Guarda Nacional Repúblicana::ent_GNR
+GNS::Gabinete Nacional de Segurança::ent_GNS
+GPEARI::Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais::ent_GPEARI
+GPERI::Gabinete de Planeamento, Estratégia e Relações Internacionais do Ministério das Obras Públicas, Transportes e Comunicações::ent_GPERI
+GPIAAF::Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários::ent_GPIAAF
+GPP::Gabinete de Planeamento e Políticas::ent_GPP
+GSEAE::Gabinete do Secretário de Estado dos Assuntos Europeus::ent_GSEAE
+GovReg-A::Governo Regional dos Açores::ent_GovReg-A
+GovReg-M::Governo Regional da Madeira::ent_GovReg-M
+Grupo_IP::Grupo Infraestruturas de Portugal::ent_Grupo_IP
+HDVCT::Hospital de Viana do Castelo::ent_HDVCT
+IAMA::Instituto de Alimentação e Mercados Agrícolas::ent_IAMA
+IAPMEI::Agência para a Competitividade e Inovação, IP::ent_IAPMEI
+IASFA::Instituto de Ação Social das Forças Armadas, IP::ent_IASFA
+IAVE::Instituto de Avaliação Educativa, IP::ent_IAVE
+ICA::Instituto do Cinema e do Audiovisual, IP::ent_ICA
+ICAM::Instituto do Cinema, do Audiovisual e do Multimédia, IP::ent_ICAM
+ICN::Instituto da Conservação da Natureza, IP::ent_ICN
+ICNF::Instituto da Conservação da Natureza e das Florestas, IP::ent_ICNF
+IDC::Inspeção Diplomática e Consular::ent_IDC
+IDN::Instituto da Defesa Nacional::ent_IDN
+IEFP::Instituto do Emprego e Formação Profissional, IP::ent_IEFP
+IFAP::Instituto de Financiamento da Agricultura e Pescas, IP::ent_IFAP
+IGAC::Inspeção-Geral das Atividades Culturais::ent_IGAC
+IGAE::Inspeção-Geral das Atividades Económicas::ent_IGAE
+IGAI::Inspeção-Geral da Administração Interna::ent_IGAI
+IGAMAOT::Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território::ent_IGAMAOT
+IGAS::Inspeção-Geral das Atividades em Saúde::ent_IGAS
+IGCP::Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, EPE::ent_IGCP
+IGDC::Inspeção-Geral Diplomática e Consular::ent_IGDC
+IGDN::Inspeção-Geral da Defesa Nacional::ent_IGDN
+IGEC::Inspeção-Geral da Educação e Ciência::ent_IGEC
+IGF::Inspeção-Geral de Finanças::ent_IGF
+IGFCSS::Instituto de Gestão de Fundos de Capitalização da Segurança Social, IP::ent_IGFCSS
+IGFEJ::Instituto de Gestão Financeira e Equipamentos da Justiça, IP::ent_IGFEJ
+IGFSS::Instituto de Gestão Financeira da Segurança Social, IP::ent_IGFSS
+IGMTSSS::Inspeção-Geral do Ministério do Trabalho, Solidariedade e Segurança Social::ent_IGMTSSS
+IGSJ::Inspeção-Geral dos Serviços de Justiça::ent_IGSJ
+IH::Instituto Hidrográfico::ent_IH
+IHRU::Instituto da Habitação e da Reabilitação Urbana, IP::ent_IHRU
+II::Instituto de Informática, IP::ent_II
+IMPIC::Instituto dos Mercados Públicos, do Imobiliário e da Construção, IP::ent_IMPIC
+IMT::Instituto de Mobilidade e dos Transportes, IP::ent_IMT
+INA::Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas::ent_INA
+INA_IP::Instituto Nacional da Administração, IP::ent_INA_IP
+INCM::Imprensa Nacional-Casa da Moeda, SA::ent_INCM
+INE::Instituto Nacional de Estatística, IP::ent_INE
+INEM::Instituto Nacional de Emergência Médica, IP::ent_INEM
+INFARMED::Autoridade Nacional do Medicamento e Produtos de Saúde, IP::ent_INFARMED
+INIAV::Instituto Nacional de Investigação Agrária e Veterinária, IP::ent_INIAV
+INMLCF::Instituto Nacional de Medicina Legal e Ciências Forenses, IP::ent_INMLCF
+INPI::Instituto Nacional da Propriedade Industrial, IP::ent_INPI
+INR::Instituto Nacional para a Reabilitação, IP::ent_INR
+INSA::Instituto Nacional de Saúde Doutor Ricardo Jorge, IP::ent_INSA
+IPAC::Instituto Português de Acreditação, IP::ent_IPAC
+IPCA::Instituto Politécnico do Cávado e do Ave::ent_IPCA
+IPDJ::Instituto Português do Desporto e Juventude, IP::ent_IPDJ
+IPMA::Instituto Português do Mar e da Atmosfera, IP::ent_IPMA
+IPP::Instituto Politécnico do Porto::ent_IPP
+IPQ::Instituto Português da Qualidade, IP::ent_IPQ
+IPST::Instituto Português do Sangue e da Transplantação, IP::ent_IPST
+IPTM::Instituto Portuário e dos Transportes Marítimos, I.P.::ent_IPTM
+IRN::Instituto dos Registos e do Notariado, IP::ent_IRN
+ISAN_Portugal::Agência ISAN Portugal::ent_ISAN_Portugal
+ISCTE::Instituto Superior de Ciências do Trabalho e da Empresa::ent_ISCTE
+ISS::Instituto da Segurança Social, IP::ent_ISS
+ISSA::Instituto da Segurança Social dos Açores, IP::ent_ISSA
+ISSM::Instituto da Segurança Social da Madeira, IP::ent_ISSM
+IST::Instituto Superior Técnico::ent_IST
+IVDP::Instituto dos Vinhos do Douro e do Porto, IP::ent_IVDP
+IVV::Instituto da Vinha e do Vinho, IP::ent_IVV
+IgeFE::Instituto de Gestão Financeira da Educação, IP::ent_IgeFE
+JurisAPP::Centro de Competências Jurídicas do Estado::ent_JurisAPP
+LNEC::Laboratório Nacional de Engenharia Civil, I.P.::ent_LNEC
+LNEG::Laboratório Nacional de Energia e Geologia, IP::ent_LNEG
+LSB71::Junta de Freguesia de Belém::ent_LSB71
+Lisboa2020::Autoridade de Gestão do Programa Operacional Regional de Lisboa::ent_Lisboa2020
+MAC::Maternidade Alfredo da Costa::ent_MAC
+MF::Ministro das Finanças::ent_MF
+MJ::Ministro da Justiça::ent_MJ
+MP::Ministério Público::ent_MP
+Marinha::Marinha Portuguesa::ent_Marinha
+MdP::Metro do Porto, SA::ent_MdP
+Norte2020::Autoridade de Gestão do Programa Operacional Regional do Norte::ent_Norte2020
+OIT::Organização Internacional do Trabalho - Lisboa::ent_OIT
+OMS::Organização Mundial de Saúde::ent_OMS
+ON::Ordem dos Notários::ent_ON
+OSAE::Ordem dos Solicitadores e dos Agentes de Execução::ent_OSAE
+PCM::Presidência do Conselho de Ministros::ent_PCM
+PDR2020::Autoridade de Gestão do Programa de Desenvolvimento Rural 2020::ent_PDR2020
+PE::Parlamento Europeu::ent_PE
+PGR::Procuradoria-Geral da República::ent_PGR
+PJ::Polícia Judiciária::ent_PJ
+PJM::Polícia Judiciária Militar::ent_PJM
+PM::Primeiro-Ministro::ent_PM
+PMar::Polícia Marítima::ent_PMar
+POAT_2020::Autoridade de Gestão do Programa Operacional de Assistência Técnica::ent_POAT_2020
+POCH::Autoridade de Gestão do Programa Operacional Temático Capital Humano::ent_POCH
+POCI::Autoridade de Gestão do Programa Operacional Temático Competitividade e Internacionalização::ent_POCI
+POISE::Autoridade de Gestão do Programa Operacional Inclusão Social e Emprego::ent_POISE
+POMar2020::Autoridade de Gestão do Programa Operacional Mar 2020::ent_POMar2020
+PO_SEUR::Autoridade de Gestão do Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos::ent_PO_SEUR
+PR::Presidente da República::ent_PR
+PRJ::Provedoria de Justiça::ent_PRJ
+PSML__SA::Parques Sintra - Monte da Lua, SA::ent_PSML__SA
+PSP::Polícia de Segurança Pública::ent_PSP
+RA-A::Região Autónoma dos Açores::ent_RA-A
+RA-M::Região Autónoma da Madeira::ent_RA-M
+RNOVA::Reitoria da Universidade Nova de Lisboa::ent_RNOVA
+SCML::Santa Casa da Misericórdia de Lisboa::ent_SCML
+SEAL::Secretário de Estado das Autarquias Locais::ent_SEAL
+SEF::Serviço de Estrangeiros e Fronteiras::ent_SEF
+SEN::Sistema Estatístico Nacional::ent_SEN
+SEUE::Eurostat – Serviços de Estatística da União Europeia::ent_SEUE
+SF-M::Superintendência das Finanças – Marinha::ent_SF-M
+SGEC::Secretaria-Geral da Educação e Ciência::ent_SGEC
+SGMA::Secretaria-Geral do Ministério do Ambiente::ent_SGMA
+SGMADRP::Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas::ent_SGMADRP
+SGMAI::Secretaria Geral do Ministério da Administração Interna::ent_SGMAI
+SGMC::Secretaria Geral do Ministério da Cultura::ent_SGMC
+SGMCES::Secretaria-Geral do Ministério da Ciência e do Ensino Superior::ent_SGMCES
+SGMDN::Secretaria Geral do Ministério da Defesa Nacional::ent_SGMDN
+SGME::Secretaria Geral do Ministério da Economia::ent_SGME
+SGMEI::Secretaria Geral do Ministério da Economia e Inovação::ent_SGMEI
+SGMEd::Secretaria-Geral do Ministério da Educação::ent_SGMEd
+SGMF::Secretaria Geral do Ministério das Finanças::ent_SGMF
+SGMJ::Secretaria Geral do Ministério da Justiça::ent_SGMJ
+SGMNE::Secretaria Geral do Ministério dos Negócios Estrangeiros::ent_SGMNE
+SGMS::Secretaria-Geral do Ministério da Saúde::ent_SGMS
+SGMSST::Secretaria-Geral do Ministério da Segurança Social e do Trabalho::ent_SGMSST
+SGMTSSS::Secretaria Geral do Ministério do Trabalho, Solidariedade e Segurança Social::ent_SGMTSSS
+SGPCM::Secretaria Geral da Presidência do Conselho de Ministros::ent_SGPCM
+SICAD::Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências::ent_SICAD
+SIRP::Sistema de Informações da República Portuguesa::ent_SIRP
+SIS::Serviço de Informações e Segurança::ent_SIS
+SM-M::Superintendência do Material – Marinha::ent_SM-M
+SMASALM::Serviços Municipalizados de Água e Saneamento de Almada::ent_SMASALM
+SNB::Serviço Nacional de Bombeiros::ent_SNB
+SP-M::Superintendência do Pessoal – Marinha::ent_SP-M
+SPMS::Serviços Partilhados do Ministério da Saúde, EPE::ent_SPMS
+SSAP::Serviços Sociais da Administração Pública::ent_SSAP
+STA::Supremo Tribunal Administrativo::ent_STA
+STI-M::Superintendência das Tecnologias da Informação – Marinha::ent_STI-M
+STJ::Supremo Tribunal de Justiça::ent_STJ
+TAP::Transportes Aéreos Portugueses, S. A::ent_TAP
+TC::Tribunal Constitucional::ent_TC
+TContas::Tribunal de Contas::ent_TContas
+TJUE::Tribunal de Justiça da União Europeia::ent_TJUE
+TP::Turismo de Portugal, IP::ent_TP
+UA::Universidade de Aveiro::ent_UA
+UE::União Europeia::ent_UE
+UTAD::Universidade de Trás-os-Montes e Alto Douro::ent_UTAD
+aaa::aaa::ent_aaa
+ff::fase final::ent_ff
+ff5::fase final 5::ent_ff5
+hi::hi::ent_hi
+new::new::ent_new
+t::teste2::ent_t
+t5::t5::ent_t5
+tt::tt7::ent_tt
+tt6::tt6::ent_tt6

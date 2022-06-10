@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "PG47345",
+      "email": "zeze@gmail.com",
+      "nome": "Zeze",
+      "password": "123"
+    },
+    {
+      "id": "PG12345",
+      "email": "xaulo@gmail.com",
+      "nome": "Paulo",
+      "password": "456"
+    },
+    {
+      "id": "PG40000",
+      "email": "ze@gmail.com",
+      "nome": "Ze",
+      "password": "1230"
+    }
+  ]
+}

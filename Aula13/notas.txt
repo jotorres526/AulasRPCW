@@ -1,0 +1,27 @@
+Para dar build na imagem
+  - docker build -t username/container_name:tag .
+    - username do dockerhub
+
+Para ver as imagens
+  - docker images
+
+Para correr imagem
+  - docker run -d -p 3000:7777 --name hello ID_imagem
+    - flags:
+      - d -> detached
+      - p 3000:7777 -> mapeia a porta 7777 do container na porta 3000
+      - name -> nome do container
+
+Ver logs
+  - docker logs hello
+
+Outros comandos:
+  - docker ps -> process status
+  - docker stop -> para container, mas o container continua em memória (n da para dar docker run again)
+  - docker rm hello -> elimina o container de memoria
+  - docker login -> login no dockerhub
+  - docker push username/container_name:tag -> publicar versao no dockerhub
+
+Docker-compose
+  - docker-compose build
+  - docker-compose up

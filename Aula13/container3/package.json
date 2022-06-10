@@ -1,0 +1,14 @@
+{
+  "name": "entidades",
+  "version": "1.0.0",
+  "description": "Cria um dataset a partir do CLAV e disponibiliza-o com o json-server.",
+  "main": "get_request.js",
+  "scripts": {
+    "test": "node get_request"
+  },
+  "author": "jcr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

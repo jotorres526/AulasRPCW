@@ -1,0 +1,13 @@
+React, angular, vue
+
+front end dividido em chunks/partes
+  - compilado para ter à volta de 200k por bloco
+  - qdo precisar de carregar outro bloco faz outro pedido ao server
+  - mc
+
+pedidos ajax
+  - 
+
+tpc exercicio append
+  - editar deve pegar no texto, meter como val no input, e ao clicar no botao dar replace no paragrafo
+    - cada paragrafo deve ter um id ent

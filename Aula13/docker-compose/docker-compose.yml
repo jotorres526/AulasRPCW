@@ -1,0 +1,36 @@
+version: "3"
+services:
+  app:
+    container_name: main
+    image: zzglider/main
+    ports:
+      - "80:80"
+  hello:
+    container_name: hello
+    restart: always
+    image: zzglider/hello:rpcw2022-v2
+    ports:
+      - "7001:7777"
+  py-clav:
+    container_name: py-clav
+    image: zzglider/python-app:rpcw2022
+    ports:
+      - "7002:8000"
+  jserver:
+    container_name: jserver
+    image: zzglider/node-api-jserver:rpcw2022
+    ports:
+      - "7003:3002"
+  myflask:
+    container_name: myflask
+    image: zzglider/flaskapp:rpcw2022
+    ports:
+      - "7004:3026"
+  bb:
+    container_name: bb
+    image: zzglider/bb:latest
+    ports:
+      - "7005:8000"
+
+    
+  
