@@ -3,9 +3,9 @@ mongo import:
     lista de objetos, mas precisa de uma flag --jsonArray
 
 docker
-    docker run -d -p 27017:27017 --name mongo-aula07 -v data:/data/db 798d1656acba
-    docker cp casamentos.json mongo-aula07:/tmp/casamentos.json
-    docker exec mongo-aula07 mongoimport -d arq_casamentos -c registos --file /tmp/casamentos.json --jsonArray
+    docker run -d -p 27017:27017 --name mymongo -v ~/MongoData:/data/db 798d1656acba
+    docker cp casamentos.json mymongo:/tmp/casamentos.json
+    docker exec mymongo mongoimport -d arq_casamentos -c registos --file /tmp/casamentos.json --jsonArray
 
 Mongosh:
     >use CurralDasFreiras
